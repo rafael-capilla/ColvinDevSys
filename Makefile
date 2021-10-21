@@ -5,7 +5,7 @@
 #Git
 #git-crypt
 
-install-all: install-aws-cli install-make install-gcloud install-kubectl install-helm install-helm-secrets install-sops install-k9s set-up-kubectl-aliases set-up-autocompletion
+install-all: install-aws-cli install-make install-gcloud install-kubectl install-helm install-helm-secrets install-sops install-k9s
 
 
 # INSTALL AWS CLI
